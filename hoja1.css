@@ -1,0 +1,34 @@
+h1{
+	font-size: 100px;
+	color: #B8B5FF;
+
+}
+p{
+	font-family: Romana;
+	font-size: 65px;
+	background: #7868E6;
+}
+h2{
+	font-size: 70px;
+	
+}
+
+body{
+	background: #FFAB73;
+}
+
+div{
+	background: #FFD384;
+}
+
+table, th, td {
+  border: 5px solid red;
+  border-collapse: collapse;
+  font-family:Geneva;
+}
+th, td {
+	font-family:Romana;
+  padding: 10px;
+  text-align: left;   
+  font-size: 30px; 
+}
